@@ -26,7 +26,7 @@ Outside of work, I enjoy exploring new technologies, playing video games, and wa
 Website and mobile app for an insurance company, including management for clients, insurers, admins, and experts. Features policy monitoring and authentication with Spring Security + OAuth2.  
 🛠 **Tech Stack:** Java, Spring Boot, Angular, Spring Security, OAuth2  
 
-🔹 **[Cash Register](https://github.com/oussamakhattabi/cashregister) (Feb. 2023 - Jun. 2023)**  
+🔹 **[Cash Register](https://github.com/oussamakhattabi/cashregister) **  
 Portable and modular web application, including sales tracking, employee history views, and inventory monitoring.  
 🛠 **Tech Stack:** PHP, MySQL, Apache, Stateful Authentication, Roles Management, MVC, REST API  
 
