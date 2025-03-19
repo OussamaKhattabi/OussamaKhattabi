@@ -22,19 +22,19 @@ Outside of work, I enjoy exploring new technologies, playing video games, and wa
 
 ### 📂 Projects  
 
-🔹 **[Assur’App](https://github.com/tonusername/assurapp)**  
+🔹 **[Assur’App](https://github.com/oussamakhattabi/assurapp)**  
 Website and mobile app for an insurance company, including management for clients, insurers, admins, and experts. Features policy monitoring and authentication with Spring Security + OAuth2.  
 🛠 **Tech Stack:** Java, Spring Boot, Angular, Spring Security, OAuth2  
 
-🔹 **[Cash Register](https://github.com/tonusername/cashregister) (Feb. 2023 - Jun. 2023)**  
+🔹 **[Cash Register](https://github.com/oussamakhattabi/cashregister) (Feb. 2023 - Jun. 2023)**  
 Portable and modular web application, including sales tracking, employee history views, and inventory monitoring.  
 🛠 **Tech Stack:** PHP, MySQL, Apache, Stateful Authentication, Roles Management, MVC, REST API  
 
-🔹 **[Bowl'N'Kart](https://github.com/tonusername/bowlnkart)**  
+🔹 **[Bowl'N'Kart](https://github.com/oussamakhattabi/bowlnkart)**  
 Responsive and dynamic website with authentication and role management, built following MVC principles and ARIA accessibility standards.  
 🛠 **Tech Stack:** PHP, MySQL, JavaScript, Apache, MVC, ARIA Accessibility  
 
-🔹 **[MyGolb](https://github.com/tonusername/mygolb)**  
+🔹 **[MyGolb](https://github.com/oussamakhattabi/mygolb)**  
 API for a social network focused exclusively on images and other media, implementing stateless authentication and REST architecture.  
 🛠 **Tech Stack:** C#, .NET, MSSQL, Stateless Authentication, REST API  
 
@@ -81,8 +81,8 @@ API for a social network focused exclusively on images and other media, implemen
 - REST API Design
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonusername&layout=compact&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussamakhattabi&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamakhattabi&layout=compact&theme=dark) 
 
 ### 📫 Contact  
-💼 LinkedIn: [linkedin.com/in/oussamakhattabi](https://www.linkedin.com/in/toussamakhattabi)  
+💼 LinkedIn: [linkedin.com/in/oussamakhattabi](https://www.linkedin.com/in/oussamakhattabi)  
