@@ -20,22 +20,23 @@ Here are some ideas to get you started:
 I am a passionate and driven software engineer with a strong desire to grow in the tech industry. I thrive in collaborative environments and enjoy working on challenging projects that push my limits and allow me to learn new skills.
 Outside of work, I enjoy exploring new technologies, playing video games, and watching sports and series in my downtime.
 
-### 📂 Projects  
+### 📂 Few projects  
 
-🔹 **[Assur’App](https://github.com/oussamakhattabi/assurapp)**  
-Website and mobile app for an insurance company, including management for clients, insurers, admins, and experts. Features policy monitoring and authentication with Spring Security + OAuth2.  
+🔹 **[Assur’App](https://github.com/Projet3-ID-MSS-2023-2024/1-Assur-App)**  
+Website and mobile app for an insurance company, including management for clients, insurers, admins, and experts. Features policy monitoring and authentication with Spring Security + OAuth2. (Academic project)
 🛠 **Tech Stack:** Java, Spring Boot, Angular, Spring Security, OAuth2  
 
-🔹 **[Cash Register](https://github.com/oussamakhattabi/cashregister)**  
-Portable and modular web application, including sales tracking, employee history views, and inventory monitoring.  
+🔹 **[Cash Register](https://github.com/la216833/GroupeA1)**  
+Portable and modular web application, including sales tracking, employee history views, and inventory monitoring.  (Academic project)
 🛠 **Tech Stack:** PHP, MySQL, Apache, Stateful Authentication, Roles Management, MVC, REST API  
 
-🔹 **[Bowl'N'Kart](https://github.com/oussamakhattabi/bowlnkart)**  
-Responsive and dynamic website with authentication and role management, built following MVC principles and ARIA accessibility standards.  
-🛠 **Tech Stack:** PHP, MySQL, JavaScript, Apache, MVC, ARIA Accessibility  
+🔹 **[Bowl'N'Kart](https://webacademy.be/projets/2021/bowlnkart/)**  
+Responsive and dynamic website with authentication and role management, built following MVC principles and ARIA accessibility standards.  (Academic project) 
+(The online hosted version is an intermediate version (showcase site) and does not include the login, while the version with authentication and the reservation system is not yet hosted.)
+🛠 **Tech Stack:** PHP, MySQL, JavaScript, Apache, MVC, ARIA Accessibility
 
-🔹 **[MyGolb](https://github.com/oussamakhattabi/mygolb)**  
-API for a social network focused exclusively on images and other media, implementing stateless authentication and REST architecture.  
+🔹 **[MyGolb](https://github.com/orgs/HELHa-IG/teams/mygolb/repositories)**  
+API for a social network focused exclusively on images and other media, implementing stateless authentication and REST architecture.  (Academic project)
 🛠 **Tech Stack:** C#, .NET, MSSQL, Stateless Authentication, REST API  
 
 ### 🛠 Tech Stack  
