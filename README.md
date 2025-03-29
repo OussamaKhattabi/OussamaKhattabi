@@ -85,7 +85,6 @@ API for a social network focused exclusively on images and other media, implemen
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussamakhattabi&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamakhattabi&layout=compact&theme=dark) 
 
 ### 📫 Contact  
 💼 LinkedIn: [linkedin.com/in/oussamakhattabi](https://www.linkedin.com/in/oussamakhattabi)  
